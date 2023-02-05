@@ -29,6 +29,6 @@ console.log(validations)
 
 ___
 
-Swift Registry: https://www.swift.com/standards/data-standards/iban-international-bank-account-number
+IBAN Registry: https://www.swift.com/standards/data-standards/iban-international-bank-account-number
 <br />
-Iban Structure: https://www.iban.com/structure
+IBAN Structure: https://www.iban.com/structure
