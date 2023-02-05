@@ -26,3 +26,8 @@ const validations = Object.entries(ibans).map(([country, iban]) => (
 
 console.log(validations)
 ```
+
+___
+
+https://www.swift.com/standards/data-standards/iban-international-bank-account-number
+https://www.iban.com/structure
