@@ -46,8 +46,6 @@ function validate(iban) {
     return mod97(digits) === 1
 }
 
-
-
 module.exports = {
 	validate
 }
